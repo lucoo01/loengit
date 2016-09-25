@@ -7,4 +7,5 @@ echo "hello world";
 不断的对这个文件进行修改
 命令：
 git add readme.txt
+git commit -m "commit tt"
 
